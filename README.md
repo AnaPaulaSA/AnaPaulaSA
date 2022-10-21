@@ -1,4 +1,6 @@
-### Hi there 👋
+# Regras da Página
+### 1ª regra sobre a página: não falamos sobre a página 👋
+### 2ª regra sobre a página: não falamos sobre a página 👋
 
 <!--
 **AnaPaulaSA/AnaPaulaSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
