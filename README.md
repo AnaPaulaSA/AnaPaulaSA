@@ -1,6 +1,6 @@
 # Regras da Página
-### 1ª regra sobre a página: não falamos sobre a página 👋
-### 2ª regra sobre a página: não falamos sobre a página 👋
+### 1ª regra sobre o clube de luta: não falamos sobre clube de luta 👋
+### 2ª regra sobre o clube de luta: não falamos sobre clube de luta 👋
 
 <!--
 **AnaPaulaSA/AnaPaulaSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
